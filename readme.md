@@ -17,7 +17,6 @@ The identification of novel drug–target interactions is a labor-intensive and 
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Tensorflow](https://www.tensorflow.org/)
 * [Python](https://python.com)
 * [Schrodinger Suites](https://www.schrodinger.com/suites/Schro%CC%88dinger)
