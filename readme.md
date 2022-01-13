@@ -22,12 +22,21 @@ This section should list any major frameworks that you built your project using.
 * [Python](https://python.com)
 * [Schrodinger Suites](https://www.schrodinger.com/suites/Schro%CC%88dinger)
 
+### Protein Embedding Extraction
+
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [Alphafold2](https://github.com/xinformatics/alphafold)
+* [ProtBERT Models](https://github.com/agemagician/ProtTrans)
+* [ESM](https://github.com/facebookresearch/esm)
+
+### SMILES Embedding Extraction
+* [SMILES Transformer](https://github.com/DSPsleeporg/smiles-transformer)
+
 ## Contact
 
 * Yogesh Kalakoti - [@iam_ysk](https://twitter.com/your_username) - yogesh.kalakoti@dbeb.iitd.ac.in
 * Shashank Yadav - [@xinformatics](https://twitter.com/xinformatics) - shyadav@med.umich.edu / shashank.yadav1@alumni.iitd.ac.in
 
-Project Link: [https://github.com/xinformatics/TransDTI](https://github.com/xinformatics/TransDTI)
 
 
 
