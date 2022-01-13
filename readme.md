@@ -1,6 +1,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About
-TransDTI: Transformer-Based Language Models for Estimating DTIs and Building a Drug Recommendation Workflow
+## TransDTI: Transformer-Based Language Models for Estimating DTIs and Building a Drug Recommendation Workflow
+
+![Image](https://github.com/xinformatics/TransDTI/blob/main/BeFunky-collage.jpg)
 
 ## Abstract
 
@@ -23,7 +25,7 @@ This section should list any major frameworks that you built your project using.
 ## Contact
 
 * Yogesh Kalakoti - [@iam_ysk](https://twitter.com/your_username) - yogesh.kalakoti@dbeb.iitd.ac.in
-* Shashank Yadav - [@xinformatics](https://twitter.com/xinformatics) - shashank.yadav1@alumni.iitd.ac.in
+* Shashank Yadav - [@xinformatics](https://twitter.com/xinformatics) - shyadav@med.umich.edu / shashank.yadav1@alumni.iitd.ac.in
 
 Project Link: [https://github.com/xinformatics/TransDTI](https://github.com/xinformatics/TransDTI)
 
