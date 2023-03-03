@@ -34,7 +34,7 @@ This section should list any major frameworks that you built your project using.
 ## Contact
 
 * Yogesh Kalakoti - [@iam_ysk](https://twitter.com/your_username) - yogesh.kalakoti@dbeb.iitd.ac.in
-* Shashank Yadav - [@xinformatics](https://twitter.com/xinformatics) - shyadav@med.umich.edu / shashank.yadav1@alumni.iitd.ac.in
+* Shashank Yadav - [@xinformatics](https://twitter.com/xinformatics) - shashank@arizona.edu / shashank.yadav1@alumni.iitd.ac.in
 
 
 
